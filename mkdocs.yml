@@ -1,0 +1,15 @@
+site_name: WarmPrompt
+site_url: https://warmprompt.com
+repo_url: https://github.com/pwright/warmprompt.com
+repo_name: warmprompt.com
+edit_uri: ""
+docs_dir: content
+site_dir: docs
+nav:
+  - Home: index.md
+theme:
+  name: mkdocs
+markdown_extensions:
+  - admonition
+  - footnotes
+  - tables
