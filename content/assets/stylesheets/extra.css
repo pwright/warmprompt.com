@@ -1,0 +1,30 @@
+:root {
+  --md-primary-fg-color: #11131a;
+  --md-primary-fg-color--light: #232631;
+  --md-primary-fg-color--dark: #0b0d13;
+  --md-accent-fg-color: #ff6b4a;
+  --md-default-bg-color: #f5f2ea;
+}
+
+.md-container {
+  background: radial-gradient(1200px circle at 20% 10%, rgba(255, 107, 74, 0.12), transparent 45%),
+    linear-gradient(180deg, #fdf9f3 0%, #f5f2ea 65%, #efe9dd 100%);
+}
+
+.md-header {
+  backdrop-filter: blur(8px);
+  background: rgba(17, 19, 26, 0.9);
+}
+
+.md-logo img {
+  height: 2rem;
+}
+
+.md-content__inner h1 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.md-footer {
+  display: none;
+}

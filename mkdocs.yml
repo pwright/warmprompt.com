@@ -7,9 +7,27 @@ docs_dir: content
 site_dir: docs
 nav:
   - Home: index.md
+  - Blog: blog/index.md
 theme:
-  name: mkdocs
+  name: material
+  logo: assets/images/logo.svg
+  favicon: assets/images/logo.svg
+  font:
+    text: "Space Grotesk"
+    code: "Fira Code"
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+extra_css:
+  - assets/stylesheets/extra.css
+plugins:
+  - search
+  - blog
 markdown_extensions:
   - admonition
   - footnotes
+  - toc:
+      permalink: true
   - tables
