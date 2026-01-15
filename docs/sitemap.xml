@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://warmprompt.com/</loc>
-         <lastmod>2026-01-14</lastmod>
+         <lastmod>2026-01-15</lastmod>
     </url>
     <url>
          <loc>https://warmprompt.com/blog/</loc>
-         <lastmod>2026-01-14</lastmod>
+         <lastmod>2026-01-15</lastmod>
     </url>
     <url>
          <loc>https://warmprompt.com/blog/2026/01/14/first-entry/</loc>
-         <lastmod>2026-01-14</lastmod>
+         <lastmod>2026-01-15</lastmod>
+    </url>
+    <url>
+         <loc>https://warmprompt.com/blog/2026/01/15/the-heated-hoodie-and-the-tyranny-of-cleverness/</loc>
+         <lastmod>2026-01-15</lastmod>
     </url>
     <url>
          <loc>https://warmprompt.com/blog/archive/2026/</loc>
-         <lastmod>2026-01-14</lastmod>
+         <lastmod>2026-01-15</lastmod>
     </url>
     <url>
          <loc>https://warmprompt.com/blog/category/updates/</loc>
-         <lastmod>2026-01-14</lastmod>
+         <lastmod>2026-01-15</lastmod>
     </url>
 </urlset>
